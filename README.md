@@ -11,6 +11,6 @@ Download this repository to your local folder
 Install Nextjs using <p><code>npx create-next-app</code></p> 
 <p><code>npm start</code></p> 
 
-# Screenshots of the App
+# Screenshot of the App
 
 <img width="848" alt="localhost_3000_events_e1" src="https://user-images.githubusercontent.com/28530792/120304809-064eb000-c2c8-11eb-84be-9d7d41182ce1.png">
