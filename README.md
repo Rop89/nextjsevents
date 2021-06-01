@@ -1,4 +1,4 @@
-# NextJS Events 🦸🏻
+# Next.js Events App 🦸🏻
 
 This app was made as a result of Udemy course: <h3>Next.js & React - The Complete Guide (incl. Two Paths!)</h3> 
 
@@ -8,7 +8,7 @@ This app was made as a result of Udemy course: <h3>Next.js & React - The Complet
 <h1>Steps to install</h1>
 
 Download this repository to your local folder
-Install Nextjs using <p><code>npx create-next-app</code></p> 
+Install Next.js using <p><code>npx create-next-app</code></p> 
 <p><code>npm start</code></p> 
 
 # Screenshot of the App
